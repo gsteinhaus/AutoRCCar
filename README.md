@@ -1,7 +1,7 @@
-## AutoRCCar
+﻿## AutoRCCar
 ### Python3 + OpenCV3
 
-See self-driving in action  
+See self-driving in action  teste
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=BBwEF6WBUQs
 " target="_blank"><img src="http://img.youtube.com/vi/BBwEF6WBUQs/0.jpg" width="360" height="240" border="10" /></a>
